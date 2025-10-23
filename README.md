@@ -1,5 +1,5 @@
 # SQL_Queries
-A collection of SQL practice questions and solutions using SQLite
+A collection of SQL practice questions and solutions using SQLLite
 
 This repository contains a collection of SQL queries I wrote to practice data analysis using **SQLite**.  
 It covers basic to intermediate SQL concepts, including filtering, aggregation, joins, and subqueries.
